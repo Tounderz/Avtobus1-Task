@@ -1,0 +1,16 @@
+:root {
+    --white-color: #FFF;
+    --black-color: #000;
+    --container-background-color: #F6F7F9;
+    --blue-color: #005BFE;
+    --add-button-backgound-color: rgba(248, 17, 85, 1);
+    --blue-hover-color: #0047C6;
+    --red-hover-color: #D1003E;
+    --input-backgound-color: rgba(0,0,0, .05);
+    --img-delete-hover-color: rgb(218, 0, 0);
+    --add-button-text-color: rgba(0, 91, 254, 1);
+    --add-button-backgound-hover-color: rgba(144, 214, 255);
+    --cross-backgound-hover-color: rgba(0, 0, 0, 0.05);
+    --update-contact-button-hover-color: rgba(0, 91, 254, 1);
+    --accordion-button-color: #005BFE;
+}
